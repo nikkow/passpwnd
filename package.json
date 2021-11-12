@@ -1,0 +1,20 @@
+{
+  "name": "passpwnd",
+  "version": "1.0.0",
+  "description": "Pass Pwnd allows the securely check if a given password has already been compromised using the powerful API of Have I been Pwned. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwnd",
+    "security",
+    "infosec",
+    "password",
+    "pwned",
+    "breach",
+    "leaks"
+  ],
+  "author": "Nicolas Nunge <nicolas@nicolasnunge.net>",
+  "license": "MIT"
+}
