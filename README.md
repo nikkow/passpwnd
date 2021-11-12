@@ -1,13 +1,13 @@
 <center>
-![passpwnd](docs/logo.jpg)
+<img src="docs/logo.jpg" alt="passpwnd" />
 </center>
 <center>
-**a no-dependencies NodeJS compromised password checker**
+<b>a no-dependencies NodeJS compromised password checker</b>
 </center>
 <center>
-	![GitHub repo size](https://img.shields.io/github/repo-size/nikkow/passpwnd?style=flat-square)
-	![npm](https://img.shields.io/npm/v/passpwnd?style=flat-square)
-	![NPM](https://img.shields.io/npm/l/passpwnd?style=flat-square)
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nikkow/passpwnd?style=flat-square" />
+	<img alt=npm" src="https://img.shields.io/npm/v/passpwnd?style=flat-square" />
+	<img alt=NPM" src="https://img.shields.io/npm/l/passpwnd?style=flat-square" />
 </center>
 
 This tool checks whether a given password is part of a known data leak, thus potentially compromised. It is based on Troy Hunt's [Have I Been Pwned](https://haveibeenpwned.com) services.
